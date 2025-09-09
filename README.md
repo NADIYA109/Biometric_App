@@ -16,7 +16,7 @@ Supports fingerprint, face recognition (if available on device), and device pass
 Navigates to a home page after successful authentication.
 
 
-🛠## Tech Used
+## Tech Used
 
 
 Flutter
